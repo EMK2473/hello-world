@@ -2,7 +2,7 @@
 hello world first repo 
 # Hello World! I'm Eric and this is H1
 **THIS TEXT IS BOLD NOW**
-*This is my italicized text*
+>*This is my italicized text*
 ## **This is H2 that is also bold**
 ### ***this is H3 and my bold AND italicized text***
 1. I want to understand repos better
