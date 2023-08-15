@@ -2,8 +2,7 @@
 hello world first repo 
 # Hello World! I'm Eric and this is my Header 1
 -**THIS IS MY BOLD TEXT**
-## *This is my italicized text*
-**This is H2 that is also bold**
+*This is my italicized text*
 ***this is H3 and my bold AND italicized text***
 ### These are the things I want to do:
 1. I want to understand repos better
