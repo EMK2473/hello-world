@@ -1,17 +1,17 @@
 # hello-world
 hello world first repo 
 # Hello World! I'm Eric (Header Style 1)
-- **THIS IS BOLD TEXT**
+- **This is bold text.**
   
-- *This is italicized text*
+- *This is italicized text.*
   
-- ***this is bold AND italicized text***
+- ***this is bold AND italicized text.***
 # These are the things I want to do:
 1. I want to understand repos better
 2. I want to understand SSH Keys better
 3. I want to understand GitHub, Repos, and pushing and pulling in general
    > cool
-# **These are markdowns and** *I think* I am starting to understand ***what I am doing***. 
+# **These are markdowns and** *I think* I am starting to understand ***what I am doing in README.*** 
 🩹🎱🪕 Emoji Attempt 
 
 **I think I nailed it** 💥💥💥
