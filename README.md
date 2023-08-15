@@ -1,6 +1,8 @@
 # Hello-World
 Hello World this is my First Repo Attempt
 # Hello World! I'm Eric (Header Style 1)
+-  This is Text.
+  
 - **This is bold text.**
   
 - *This is italicized text.*
