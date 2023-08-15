@@ -14,7 +14,7 @@ hello world first repo
 # These are markdowns **and** *I think* I am starting to understand what I am doing. 
 🩹🎱🪕 Emoji Attempt 
 I do not know how to "Propose changes..." but I think I figured it out This is a header?
-## Header Style 2
+## Header Style 2 and my goals in this field
   > I want to build a team to work on software in the neuroscience field.
   > I want to get a job after this bootcamp that will allow me to get experience on a software project
   > I want to learn from experienced leaders in this field how to develop software as well as facilitate engineers into their best positions for success
