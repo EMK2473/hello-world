@@ -1,11 +1,11 @@
 # hello-world
 hello world first repo 
 # Hello World! I'm Eric Header Style 1
-- **THIS IS MY BOLD TEXT**
+- **THIS IS BOLD TEXT**
 - 
-- *This is my italicized text*
+- *This is italicized text*
 - 
-- ***this is H3 and my bold AND italicized text***
+- ***this is bold AND italicized text***
 # These are the things I want to do:
 1. I want to understand repos better
 2. I want to understand SSH Keys better
