@@ -5,16 +5,16 @@ Hello World this is my First Repo Attempt
   
 - *This is italicized text.*
   
-- ***this is bold AND italicized text.***
+- ***This is bold AND italicized text.***
 # These are the things I want to do:
-1. I want to understand repos better
-2. I want to understand SSH Keys better
-3. I want to understand GitHub, Repos, and pushing and pulling in general
-   > cool
+1. I want to understand repos better.
+2. I want to understand SSH Keys better.
+3. I want to understand GitHub, Repos, and pushing and pulling in general.
+   > cool.
 # **These are markdowns and** *I think* I am starting to understand ***what I am doing in README.*** 
 🩹🎱🪕 Emoji Attempt 
 
-**I think I nailed it** 💥💥💥
+**I think I nailed it.** 💥💥💥
 
 ## My goals in this field (Header Stlye 2)
   > I want to build a team to work on software in the neuroscience field.
