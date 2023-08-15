@@ -11,7 +11,7 @@ hello world first repo
 2. I want to understand SSH Keys better
 3. I want to understand GitHub, Repos, and pushing and pulling in general
    > cool
-# These are markdowns **and** *I think* I am starting to understand what I am doing. 
+# **These are markdowns and** *I think* I am starting to understand ***what I am doing***. 
 🩹🎱🪕 Emoji Attempt 
 
 **I think I nailed it** 💥💥💥
