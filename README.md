@@ -9,7 +9,7 @@ hello world first repo
 # These are the things I want to do:
 1. I want to understand repos better
 2. I want to understand SSH Keys better
-3. I want to understand GitHub, Repos, pushing and pulling in general
+3. I want to understand GitHub, Repos, and pushing and pulling in general
    > cool
 # These are markdowns **and** *I think* I am starting to understand what I am doing. 
 🩹🎱🪕 Emoji Attempt 
