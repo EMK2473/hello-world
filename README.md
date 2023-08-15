@@ -24,6 +24,8 @@ I am **starting** to understand
 
 **I think I nailed it.** 💥💥💥✔️
 
+Now, I need to understand creating *"branches"*.
+
 ## My goals in this field (Header Stlye 2)
   > I want to build a team to work on software in the neuroscience field.
   > 
