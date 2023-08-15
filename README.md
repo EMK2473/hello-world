@@ -5,7 +5,7 @@ hello world first repo
 ## *This is my italicized text*
 **This is H2 that is also bold**
 ***this is H3 and my bold AND italicized text***
-### These are the things I want to do:
+### These are the things I want to do
 1. I want to understand repos better
 2. I want to understand SSH Keys better
 3. I want to understand GitHub, Repos, pushing and pulling in general
