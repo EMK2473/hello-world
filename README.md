@@ -13,10 +13,10 @@ Hello World this is my First Repo Attempt
 3. I want a better understanding SSH Keys and how they work.
 4. I want a better understanding of pushing and pulling in general.
    > cool.
-## **These are markdowns and** 
-## *I think* 
-## I am starting to understand 
-## ***what I am doing in README.*** 
+## **These are markdowns** 
+*and I think* 
+I am starting to understand 
+***what I am doing in README.*** 
 🩹🎱🪕 Emoji Attempt 
 
 **I think I nailed it.** 💥💥💥
