@@ -16,10 +16,11 @@ Hello World this is my First Repo Attempt
 ## **These are markdowns** 
 *and I think* 
 I am starting to understand 
-* **what I am doing in README.** * 
+* **what I am doing in README.** *
+
 🩹🎱🪕 Emoji Attempt 
 
-**I think I nailed it.** 💥💥💥
+**I think I nailed it.** 💥💥💥✔️
 
 ## My goals in this field (Header Stlye 2)
   > I want to build a team to work on software in the neuroscience field.
