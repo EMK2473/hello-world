@@ -9,8 +9,9 @@ Hello World this is my First Repo Attempt
 # Headers determine font size in a way.
 # These are the things I want to do:
 1. I want a better understanding of how to create and clone repos.
-2. I want a better understanding SSH Keys and how they work.
-3. I want a better understanding of pushing and pulling in general.
+2. I want a better understanding of creating and deleting new branches.
+3. I want a better understanding SSH Keys and how they work.
+4. I want a better understanding of pushing and pulling in general.
    > cool.
 # **These are markdowns and** *I think* I am starting to understand ***what I am doing in README.*** 
 🩹🎱🪕 Emoji Attempt 
