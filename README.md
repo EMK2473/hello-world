@@ -1,6 +1,6 @@
 # hello-world
 hello world first repo 
-# Hello World! I'm Eric and this is my Header 1
+# Hello World! I'm Eric Header Style 1
 -**THIS IS MY BOLD TEXT**
 -*This is my italicized text*
 -***this is H3 and my bold AND italicized text***
