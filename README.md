@@ -1,5 +1,5 @@
-# hello-world
-hello world first repo 
+# Hello-World
+Hello World this is my First Repo Attempt
 # Hello World! I'm Eric (Header Style 1)
 - **This is bold text.**
   
