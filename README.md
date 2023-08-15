@@ -1,6 +1,6 @@
 # hello-world
 hello world first repo 
-# Hello World! I'm Eric Header Style 1
+# Hello World! I'm Eric (Header Style 1)
 - **THIS IS BOLD TEXT**
   
 - *This is italicized text*
@@ -16,7 +16,7 @@ hello world first repo
 
 **I think I nailed it** 💥💥💥
 
-## Header Style 2 and my goals in this field
+## My goals in this field (Header Stlye 2)
   > I want to build a team to work on software in the neuroscience field.
   > I want to get a job after this bootcamp that will allow me to get experience on a software project
   > I want to learn from experienced leaders in this field how to develop software as well as facilitate engineers into their best positions for success
