@@ -1,12 +1,12 @@
 # hello-world
 hello world first repo 
-# Hello World! I'm Eric
+# Hello World! I'm Eric and this is H1
 **THIS TEXT IS BOLD NOW**
 *This is my italicized text*
-## **This is my second header that is also bold**
-### ***this is my bold and italicized text***
-1. I want to understand repos
-2. I want to understand SSH Keys
-3. I want to understand GitHub, Repos, pushing and pulling
+## **This is H2 that is also bold**
+### ***this is H3 and my bold AND italicized text***
+1. I want to understand repos better
+2. I want to understand SSH Keys better
+3. I want to understand GitHub, Repos, pushing and pulling in general
 4. > "cool"
    > These are markdowns **and** *I think* I am starting to understand what I am doing. 
