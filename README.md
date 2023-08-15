@@ -6,6 +6,7 @@ Hello World this is my First Repo Attempt
 - *This is italicized text.*
   
 - ***This is bold AND italicized text.***
+# Headers determine font size in a way.
 # These are the things I want to do:
 1. I want to understand repos better.
 2. I want to understand SSH Keys better.
