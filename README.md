@@ -8,9 +8,9 @@ Hello World this is my First Repo Attempt
 - ***This is bold AND italicized text.***
 # Headers determine font size in a way.
 # These are the things I want to do:
-1. I want to understand repos better.
-2. I want to understand SSH Keys better.
-3. I want to understand GitHub, Repos, and pushing and pulling in general.
+1. I want a better understanding of how to create and clone repos.
+2. I want a better understanding SSH Keys and how they work.
+3. I want a better understanding of pushing and pulling in general.
    > cool.
 # **These are markdowns and** *I think* I am starting to understand ***what I am doing in README.*** 
 🩹🎱🪕 Emoji Attempt 
