@@ -25,4 +25,4 @@ Hello World this is my First Repo Attempt
   > I want to learn from experienced leaders in this field how to develop software as well as facilitate engineers into their best positions for success.
   > 
   > I want to then apply for a job that is doing just that.
-# P.S. You have to leave lines blank to create spacing between sentences. ✍️
+# P.S. You have to leave lines blank to create spacing between sentences✍️, and you sometimes need to refresh the browser to reflect your most recent commits. 
