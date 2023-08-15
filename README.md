@@ -14,6 +14,8 @@ hello world first repo
 # These are markdowns **and** *I think* I am starting to understand what I am doing. 
 🩹🎱🪕 Emoji Attempt 
 
+**I think I nailed it** 💥💥💥
+
 ## Header Style 2 and my goals in this field
   > I want to build a team to work on software in the neuroscience field.
   > I want to get a job after this bootcamp that will allow me to get experience on a software project
