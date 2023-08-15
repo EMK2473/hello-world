@@ -1,19 +1,19 @@
 # Hello-World
 Hello World this is my First Repo Attempt
 # Hello World! I'm Eric (Header Style 1)
--  This is Text.
+-  This is Text. ✔️
   
-- **This is bold text.**
+- **This is bold text.** ✔️
   
-- *This is italicized text.*
+- *This is italicized text.* ✔️
   
-- ***This is bold AND italicized text.***
+- ***This is bold AND italicized text.*** ✔️
 # Headers, in a way, determine font size.
 # These are the things ***I want to do***:
-1. I want a better understanding of how to **create and clone repos.**
-2. I want a better understanding of **creating and deleting new branches.**
+1. I want a better understanding of how to **create ✔️ and clone repos.**
+2. I want a better understanding of **creating and deleting new branches.** ✔️
 3. I want a better understanding of **SSH Keys and how they work.**
-4. I want a better understanding of **pushing and pulling in general.**
+4. I want a better understanding of **pushing and pulling in general.** ✔️
    > cool. let's do this. 
 # **These are markdowns** 
 *and I think* 
@@ -24,7 +24,7 @@ I am **starting** to understand
 
 **I think I nailed it.** 💥💥💥✔️
 
-Now, I need to understand creating *"branches"*.
+Now, I need to understand creating *"branches"*. ✔️
 
 ## My goals in this field (Header Stlye 2)
   > I want to build a team to work on software in the neuroscience field.
