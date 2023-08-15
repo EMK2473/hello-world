@@ -16,4 +16,4 @@ hello world first repo
 I want to build a team to work on software in the neuroscience field.
   > I want to get a job after this bootcamp that will allow me to get experience on a software project
   > I want to learn from experienced leaders in this field how to develop software as well as facilitate engineers into their best positions for success
-  > I want to then apply for a job that is doing just that^
+  > I want to then apply for a job that is doing just that
