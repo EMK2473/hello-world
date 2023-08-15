@@ -18,7 +18,6 @@ Hello World this is my First Repo Attempt
 # **These are markdowns** 
 *and I think* 
 I am **starting** to understand 
-*what I am doing* with **Markdowns** in **README.**
 
 🩹🎱🪕 Emoji Attempt 
 
